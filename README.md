@@ -14,7 +14,6 @@
 - It is low level (raw) form of data and is also human readable.
 - It helps developers in faster coding, in-turn reduces development cost.
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](http://api.login2explore.com:5577/user/jpdb_view.html))
 
 
 
